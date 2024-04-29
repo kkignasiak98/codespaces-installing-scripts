@@ -16,5 +16,6 @@ And to remove it: <br>
 
 ## List of available scripts
 1. Gcloud  
-2. Terraform 
-3. Terragrunt 
+2. Terraform
+3. Terragrunt
+4. R
