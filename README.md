@@ -19,3 +19,4 @@ And to remove it: <br>
 2. Terraform
 3. Terragrunt
 4. R
+5. pyenv
